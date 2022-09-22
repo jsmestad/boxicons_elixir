@@ -36,7 +36,8 @@ defmodule Boxicons.MixProject do
   defp package do
     [
       licenses: ["MIT"],
-      links: %{"GitHub" => "https://github.com/jsmestad/boxicons_elixir"}
+      links: %{"GitHub" => "https://github.com/jsmestad/boxicons_elixir"},
+      files: ["lib/boxicons.ex", "README*", "mix.exs", ".formatter.exs", "LICENSE*", "CHANGELOG*"]
     ]
   end
 
