@@ -4,7 +4,7 @@ defmodule Boxicons.MixProject do
   def project do
     [
       app: :boxicons,
-      version: "0.1.0",
+      version: "0.1.1",
       elixir: "~> 1.14",
       start_permanent: Mix.env() == :prod,
       deps: deps(),
@@ -37,7 +37,7 @@ defmodule Boxicons.MixProject do
     [
       licenses: ["MIT"],
       links: %{"GitHub" => "https://github.com/jsmestad/boxicons_elixir"},
-      files: ["lib/boxicons.ex", "README*", "mix.exs", ".formatter.exs", "CHANGELOG*"]
+      files: ["lib/boxicons.ex", "README*", "mix.exs", ".formatter.exs", "CHANGELOG*", "LICENSE*"]
     ]
   end
 
