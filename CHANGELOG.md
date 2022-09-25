@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.2] - 2022-09-25
+### Fixed
+- Fix bug where `<circle>` would not show up in icons.
+
 ## [0.1.1] - 2022-09-22
 ### Added
 - Add `LICENSE.md` file
@@ -18,6 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create `Boxicons`
 
 
-[Unreleased]: https://github.com/jsmestad/boxicons_elixir/compare/v0.1.1...HEAD
+[Unreleased]: https://github.com/jsmestad/boxicons_elixir/compare/v0.1.2...HEAD
+[0.1.1]: https://github.com/jsmestad/boxicons_elixir/releases/tag/v0.1.1...v0.1.2
 [0.1.1]: https://github.com/jsmestad/boxicons_elixir/releases/tag/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/jsmestad/boxicons_elixir/releases/tag/v0.1.0

@@ -24,7 +24,7 @@ defmodule Mix.Tasks.Boxicons.Generate do
               |> List.delete_at(-1)
               |> Enum.map(&(&1 <> ">")),
             path = String.trim(path),
-            String.starts_with?(path, "<path"),
+            String.starts_with?(path, "<path") || String.starts_with?(path, "<circle"),
             do: path
       end)
 
