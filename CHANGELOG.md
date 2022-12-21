@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.3] - 2022-12-21
+### Fixed
+- Fix bug where `<ellipse>` would not show up in icons.
+
 ## [0.1.2] - 2022-09-25
 ### Fixed
 - Fix bug where `<circle>` would not show up in icons.
@@ -21,8 +25,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Create `Boxicons`
 
-
-[Unreleased]: https://github.com/jsmestad/boxicons_elixir/compare/v0.1.2...HEAD
-[0.1.1]: https://github.com/jsmestad/boxicons_elixir/releases/tag/v0.1.1...v0.1.2
+[Unreleased]: https://github.com/jsmestad/boxicons_elixir/compare/v0.1.3...HEAD
+[0.1.3]: https://github.com/jsmestad/boxicons_elixir/releases/tag/v0.1.2...v0.1.3
+[0.1.2]: https://github.com/jsmestad/boxicons_elixir/releases/tag/v0.1.1...v0.1.2
 [0.1.1]: https://github.com/jsmestad/boxicons_elixir/releases/tag/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/jsmestad/boxicons_elixir/releases/tag/v0.1.0
